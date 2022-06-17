@@ -1,0 +1,3328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Learning Biology</title>
+    <link>https://www.georgeestrada.github.io</link>
+    <pubDate>Thu, 16 Jun 2022 23:31:16 +0000</pubDate>
+    <description />
+    <language>es-MX</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-457465857</wp:author_id>
+      <wp:author_login>jorgeluis.koki15@gmail.com</wp:author_login>
+      <wp:author_email>jorgeluis.koki15@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Kookii xD xD]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Kookii]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[xD xD]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Inicio</title>
+      <pubDate>Fri, 17 Jun 2022 02:10:39 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="62abbf085d3f10160d76dc34" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--inset
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--bottom
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62abbf085d3f10160d76dc36"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62abcdc5161e5552a78d312f&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1655426501394,
+    &quot;updatedOn&quot;: 1655426501423,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1655426501394,
+    &quot;authorId&quot;: &quot;62abbd40bb345554b61931be&quot;,
+    &quot;systemDataId&quot;: &quot;612d324f-7f5d-4cbd-a9d4-e91afeb589a9&quot;,
+    &quot;systemDataVariants&quot;: &quot;3000x3000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+    &quot;filename&quot;: &quot;online-learning-concept.png&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;000000&quot;,
+      &quot;topRightAverage&quot;: &quot;000000&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;696a6b&quot;,
+      &quot;bottomRightAverage&quot;: &quot;7a7f82&quot;,
+      &quot;centerAverage&quot;: &quot;6d9bc1&quot;,
+      &quot;suggestedBgColor&quot;: &quot;646661&quot;
+    },
+    &quot;urlId&quot;: &quot;n92p5v6vqx6ph6vomuy9u1ee2ycnpd&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;62abbd40bb345554b61931be&quot;,
+      &quot;displayName&quot;: &quot;Kookii xD xD&quot;,
+      &quot;firstName&quot;: &quot;Kookii&quot;,
+      &quot;lastName&quot;: &quot;xD xD&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png&quot;,
+    &quot;contentType&quot;: &quot;image/png&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;3000x3000&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.19,
+  &quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 100,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;zoom&quot;,
+  &quot;generative&quot;: {
+    &quot;type&quot;: &quot;isometric&quot;,
+    &quot;seed&quot;: 0,
+    &quot;count&quot;: 0,
+    &quot;size&quot;: 0,
+    &quot;speed&quot;: 20,
+    &quot;startColor&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;lightAccent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;endColor&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;accent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;invertColors&quot;: false,
+    &quot;noiseIntensity&quot;: 0,
+    &quot;noiseScale&quot;: 66,
+    &quot;distortionScaleX&quot;: 0,
+    &quot;distortionScaleY&quot;: 0,
+    &quot;distortionSpeed&quot;: 0,
+    &quot;distortionIntensity&quot;: 0,
+    &quot;lightIntensity&quot;: 100,
+    &quot;lightX&quot;: 100,
+    &quot;bevelRotation&quot;: 0,
+    &quot;bevelSize&quot;: 0,
+    &quot;bevelStrength&quot;: 0,
+    &quot;complexity&quot;: 0,
+    &quot;cutoff&quot;: 0,
+    &quot;isBevelEnabled&quot;: false,
+    &quot;isBlurEnabled&quot;: false,
+    &quot;scale&quot;: 0,
+    &quot;speedMorph&quot;: 0,
+    &quot;speedTravel&quot;: 0,
+    &quot;steps&quot;: 0,
+    &quot;travelDirection&quot;: 0,
+    &quot;noiseBias&quot;: 0,
+    &quot;animateNoise&quot;: false,
+    &quot;distortionComplexity&quot;: 0,
+    &quot;distortionDirection&quot;: 0,
+    &quot;distortionMorphSpeed&quot;: 0,
+    &quot;distortionSeed&quot;: 0,
+    &quot;distortionSmoothness&quot;: 0,
+    &quot;linearGradientStartColorDistance&quot;: 0,
+    &quot;linearGradientEndColorDistance&quot;: 0,
+    &quot;linearGradientAngle&quot;: 0,
+    &quot;linearGradientAngleMotion&quot;: 0,
+    &quot;linearGradientRepeat&quot;: 0,
+    &quot;radialGradientRadius&quot;: 0,
+    &quot;radialGradientPositionX&quot;: 0,
+    &quot;radialGradientPositionY&quot;: 0,
+    &quot;radialGradientFollowCursor&quot;: false,
+    &quot;radialGradientFollowSpeed&quot;: 0,
+    &quot;imageScale&quot;: 0,
+    &quot;imageCount&quot;: 0,
+    &quot;patternEnabled&quot;: false,
+    &quot;patternSize&quot;: 0,
+    &quot;patternOffsetX&quot;: 0,
+    &quot;patternOffsetY&quot;: 0,
+    &quot;patternSpaceX&quot;: 0,
+    &quot;patternSpaceY&quot;: 0,
+    &quot;waveEnabled&quot;: false,
+    &quot;waveSpeed&quot;: 0,
+    &quot;waveComplexity&quot;: 0,
+    &quot;waveDepth&quot;: 0,
+    &quot;waveShadowDepth&quot;: 0,
+    &quot;boxSize&quot;: 1.0,
+    &quot;scaleX&quot;: 100,
+    &quot;scaleY&quot;: 100,
+    &quot;scaleZ&quot;: 100,
+    &quot;isMorphEnabled&quot;: false,
+    &quot;lightY&quot;: 50,
+    &quot;lightZ&quot;: 25,
+    &quot;noiseRange&quot;: 100,
+    &quot;positionFactor&quot;: 1,
+    &quot;scaleFactor&quot;: 0,
+    &quot;colorFactor&quot;: 1,
+    &quot;sizeVariance&quot;: 0,
+    &quot;wobble&quot;: 0,
+    &quot;morph&quot;: 0,
+    &quot;scrollMovement&quot;: 0,
+    &quot;patternScaleX&quot;: 0,
+    &quot;patternScaleY&quot;: 0,
+    &quot;patternPowerX&quot;: 0,
+    &quot;patternPowerY&quot;: 0,
+    &quot;patternAmount&quot;: 0,
+    &quot;surfaceHeight&quot;: 0,
+    &quot;colorStop1&quot;: 0,
+    &quot;colorStop2&quot;: 0,
+    &quot;colorStop3&quot;: 0,
+    &quot;colorStop4&quot;: 0,
+    &quot;gradientDistortionX&quot;: 0,
+    &quot;gradientDistortionY&quot;: 0,
+    &quot;curveX&quot;: 0,
+    &quot;curveY&quot;: 0,
+    &quot;curveFunnel&quot;: 0,
+    &quot;fogIntensity&quot;: 0,
+    &quot;repeat&quot;: 0,
+    &quot;rotation&quot;: 0,
+    &quot;rotationSpeed&quot;: 0,
+    &quot;blur&quot;: 0,
+    &quot;complexityY&quot;: 0,
+    &quot;complexityZ&quot;: 0,
+    &quot;amplitudeY&quot;: 0,
+    &quot;amplitudeZ&quot;: 0,
+    &quot;offset&quot;: 0,
+    &quot;lightAngle&quot;: 0,
+    &quot;alpha&quot;: 0
+  }
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 100vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+    
+      
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXParallax"
+  data-props='{"amount": 0.0, "angle": 90, "zoomStart": 0.3, "zoomEnd": 0.0}'
+  >
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png" data-image="https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png" data-image-dimensions="3000x3000" data-image-focal-point="0.5,0.5" alt="online-learning-concept.png"  data-load="false"
+  
+     srcset="https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png?format=100w 100w,https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png?format=300w 300w,https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png?format=500w 500w,https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png?format=750w 750w,https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/62abbd44ba26a33883c99854/612d324f-7f5d-4cbd-a9d4-e91afeb589a9/online-learning-concept.png?format=2500w 2500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+  
+/>
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+    
+  
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0.19;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+           padding-top: calc(100vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-type="page-section" data-updated-on="1655433439506" id="page-section-62abbf085d3f10160d76dc36"></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    '
+  
+  data-section-id="62abbf085d3f10160d76dc38"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 52,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 80,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;generative&quot;,
+  &quot;generative&quot;: {
+    &quot;type&quot;: &quot;gradient&quot;,
+    &quot;seed&quot;: 0,
+    &quot;count&quot;: 0,
+    &quot;size&quot;: 0,
+    &quot;speed&quot;: 0,
+    &quot;startColor&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;accent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;endColor&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;lightAccent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;invertColors&quot;: false,
+    &quot;noiseIntensity&quot;: 0,
+    &quot;noiseScale&quot;: 0,
+    &quot;distortionScaleX&quot;: 0,
+    &quot;distortionScaleY&quot;: 0,
+    &quot;distortionSpeed&quot;: 5,
+    &quot;distortionIntensity&quot;: 50,
+    &quot;lightIntensity&quot;: 0,
+    &quot;lightX&quot;: 0,
+    &quot;bevelRotation&quot;: 0,
+    &quot;bevelSize&quot;: 0,
+    &quot;bevelStrength&quot;: 0,
+    &quot;complexity&quot;: 0,
+    &quot;cutoff&quot;: 0,
+    &quot;isBevelEnabled&quot;: false,
+    &quot;isBlurEnabled&quot;: false,
+    &quot;scale&quot;: 0,
+    &quot;speedMorph&quot;: 0,
+    &quot;speedTravel&quot;: 0,
+    &quot;steps&quot;: 0,
+    &quot;travelDirection&quot;: 0,
+    &quot;gradientType&quot;: &quot;linear&quot;,
+    &quot;noiseBias&quot;: -50,
+    &quot;animateNoise&quot;: false,
+    &quot;distortionComplexity&quot;: 22,
+    &quot;distortionDirection&quot;: 270,
+    &quot;distortionMorphSpeed&quot;: 25,
+    &quot;distortionSeed&quot;: 50,
+    &quot;distortionSmoothness&quot;: 100,
+    &quot;linearGradientStartColorDistance&quot;: -93,
+    &quot;linearGradientEndColorDistance&quot;: 100,
+    &quot;linearGradientAngle&quot;: 270,
+    &quot;linearGradientAngleMotion&quot;: 0,
+    &quot;linearGradientRepeat&quot;: 1,
+    &quot;radialGradientRadius&quot;: 0,
+    &quot;radialGradientPositionX&quot;: 0,
+    &quot;radialGradientPositionY&quot;: 0,
+    &quot;radialGradientFollowCursor&quot;: false,
+    &quot;radialGradientFollowSpeed&quot;: 0,
+    &quot;imageScale&quot;: 0,
+    &quot;imageCount&quot;: 0,
+    &quot;patternEnabled&quot;: false,
+    &quot;patternSize&quot;: 0,
+    &quot;patternOffsetX&quot;: 0,
+    &quot;patternOffsetY&quot;: 0,
+    &quot;patternSpaceX&quot;: 0,
+    &quot;patternSpaceY&quot;: 0,
+    &quot;waveEnabled&quot;: false,
+    &quot;waveSpeed&quot;: 0,
+    &quot;waveComplexity&quot;: 0,
+    &quot;waveDepth&quot;: 0,
+    &quot;waveShadowDepth&quot;: 0,
+    &quot;boxSize&quot;: 0.0,
+    &quot;scaleX&quot;: 0,
+    &quot;scaleY&quot;: 0,
+    &quot;scaleZ&quot;: 0,
+    &quot;isMorphEnabled&quot;: false,
+    &quot;lightY&quot;: 0,
+    &quot;lightZ&quot;: 0,
+    &quot;noiseRange&quot;: 0,
+    &quot;positionFactor&quot;: 0,
+    &quot;scaleFactor&quot;: 0,
+    &quot;colorFactor&quot;: 0,
+    &quot;sizeVariance&quot;: 0,
+    &quot;wobble&quot;: 0,
+    &quot;morph&quot;: 0,
+    &quot;scrollMovement&quot;: 0,
+    &quot;patternScaleX&quot;: 0,
+    &quot;patternScaleY&quot;: 0,
+    &quot;patternPowerX&quot;: 0,
+    &quot;patternPowerY&quot;: 0,
+    &quot;patternAmount&quot;: 0,
+    &quot;surfaceHeight&quot;: 0,
+    &quot;colorStop1&quot;: 0,
+    &quot;colorStop2&quot;: 0,
+    &quot;colorStop3&quot;: 0,
+    &quot;colorStop4&quot;: 0,
+    &quot;gradientDistortionX&quot;: 0,
+    &quot;gradientDistortionY&quot;: 0,
+    &quot;curveX&quot;: 0,
+    &quot;curveY&quot;: 0,
+    &quot;curveFunnel&quot;: 0,
+    &quot;fogIntensity&quot;: 0,
+    &quot;repeat&quot;: 0,
+    &quot;rotation&quot;: 0,
+    &quot;rotationSpeed&quot;: 0,
+    &quot;blur&quot;: 0,
+    &quot;complexityY&quot;: 0,
+    &quot;complexityZ&quot;: 0,
+    &quot;amplitudeY&quot;: 0,
+    &quot;amplitudeZ&quot;: 0,
+    &quot;offset&quot;: 0,
+    &quot;lightAngle&quot;: 0,
+    &quot;alpha&quot;: 0
+  }
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+  <div
+  class="section-background-content"
+  data-controller="BackgroundGradient"
+  >
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 80%;" 
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbf085d3f10160d76dc38"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-3a2913045ae3e9fdab2b"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--custom" style="color: #FFFFFF"><strong><em>“Nunca había sido tan fácil aprender Biología.”</em></strong> </span></h1>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-cb3ab4fe01ccab0156ec"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/programs"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Inicia ahora
+  </a>
+</div>
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-bb56d416fe1466bbfa12"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-focus-in
+            individual-animation-none
+            individual-text-animation-none
+            image-position-right
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478095911-ZWF5A8U449AZ2TGT7R3T/Stocksy_comp_1921791.jpg" alt="Estamos a tu disposición para ayudarte a alcanzar el éxito - Después de años de experiencia personal y profesional, fundamos Grow Well Coaching para ayudar a que las personas y los equipos conviertan los negocios de sus sueños en realidad. Con nuestros amplios recursos guiados, encontrarás confianza renovada y tácticas que permitirán que tu negocio prospere." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478095911-ZWF5A8U449AZ2TGT7R3T/Stocksy_comp_1921791.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478095911-ZWF5A8U449AZ2TGT7R3T/Stocksy_comp_1921791.jpg" data-image-dimensions="2500x3333" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h2 style="white-space:pre-wrap;">Estamos a tu disposición para ayudarte a alcanzar el éxito</h2></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="" style="white-space:pre-wrap;">Después de años de experiencia personal y profesional, fundamos Grow Well Coaching para ayudar a que las personas y los equipos conviertan los negocios de sus sueños en realidad. Con nuestros amplios recursos guiados, encontrarás confianza renovada y tácticas que permitirán que tu negocio prospere.</p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/about" class="sqs-button-element--primary">Más información</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+    <button class='background-pause-button' aria-label=""></button>
+<button class='background-pause-button paused' aria-label=""></button>
+
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--inset
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62abbf085d3f10160d76dc3a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62abbf085d3f10160d76dc24&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1582139694962,
+    &quot;updatedOn&quot;: 1608484509772,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1582139694962,
+    &quot;authorId&quot;: &quot;62abbd40bb345554b61931be&quot;,
+    &quot;systemDataId&quot;: &quot;1606478136880-B8PZ27ASDRRYHJY53UU1&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;Stocksy_comp_1524632.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;d3d5d2&quot;,
+      &quot;topRightAverage&quot;: &quot;506128&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;171c06&quot;,
+      &quot;bottomRightAverage&quot;: &quot;38450c&quot;,
+      &quot;centerAverage&quot;: &quot;2b3a08&quot;,
+      &quot;suggestedBgColor&quot;: &quot;d2d4d1&quot;
+    },
+    &quot;urlId&quot;: &quot;1pcp6dyvykp1amtxmwvd6m0wanw0zq-h9r5a&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;62abbd40bb345554b61931be&quot;,
+      &quot;displayName&quot;: &quot;Kookii xD xD&quot;,
+      &quot;firstName&quot;: &quot;Kookii&quot;,
+      &quot;lastName&quot;: &quot;xD xD&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478136880-B8PZ27ASDRRYHJY53UU1/Stocksy_comp_1524632.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2500x1667&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478136880-B8PZ27ASDRRYHJY53UU1/Stocksy_comp_1524632.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478136880-B8PZ27ASDRRYHJY53UU1/Stocksy_comp_1524632.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Stocksy_comp_1524632.jpg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbf085d3f10160d76dc3a"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-da762dded3fecd5eb6ff"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Supera tus obstáculos</h2>
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-c851114beb19c69ea496"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7f570bc45462cb8ba6f7"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Identifica tu punto de partida</h4><p style="text-align:center;white-space:pre-wrap;" class="">¿Cuál es el primer paso para crear un negocio? No es tan difícil como crees.</p>
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7a5e8fef45de847185bb"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Haz realidad tus ideas</h4><p style="text-align:center;white-space:pre-wrap;" class="">Haz realidad esas ideas geniales que tienes en la cabeza.</p>
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-db4636f1575995d5b211"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Vende tu visión</h4><p style="text-align:center;white-space:pre-wrap;" class="">Aprende a presentarte y mostrar tus ideas con confianza.</p>
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b8475116f4ea60435042"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">Amplía tu negocio</h4><p style="text-align:center;white-space:pre-wrap;" class="">Derriba muros para hacer que tu pequeña empresa se convierta en un imperio.</p>
+
+
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+      
+    
+    
+    '
+  
+  data-section-id="62abbf085d3f10160d76dc3c"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 38,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 38vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+           padding-bottom: calc(38vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbf085d3f10160d76dc3c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-3c14edb2a40d0db210d5"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Elige tu punto de partida</h3><h4 style="text-align:center;white-space:pre-wrap;"><a href="/join">Evalúa las membresías y los paquetes de clases</a></h4>
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-955ab7d6e34af2ae1d2e"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-adedc772e4dce5450973"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;"><strong>Guía para principiantes</strong><br>Gratis</h4><p style="text-align:center;white-space:pre-wrap;" class="">Recibe consejos de expertos sobre cómo empezar, una lista de control para tu primer año de negocios y útiles enlaces de seguimiento.</p>
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-49b416e7aa9600859a52"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;"><strong>Membresía mensual</strong><br>39 €/mes</h4><p style="text-align:center;white-space:pre-wrap;" class="">Acceso mensual a nuestra biblioteca creciente de clases en línea, cursos de formación, eventos especiales y sesiones individuales de asesoramiento.</p>
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ed8bfd0447be2cd5e752"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;"><strong>Membresía anual</strong><br>429 €/año — Recibe 1 mes gratis</h4><p style="text-align:center;white-space:pre-wrap;" class="">Acceso mensual a nuestra biblioteca creciente de clases en línea, cursos de formación, eventos especiales y sesiones individuales de asesoramiento.</p>
+
+
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--left
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62abbf085d3f10160d76dc3e"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62abbf085d3f10160d76dc27&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1596577875402,
+    &quot;updatedOn&quot;: 1608484509776,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1596577875402,
+    &quot;authorId&quot;: &quot;62abbd40bb345554b61931be&quot;,
+    &quot;systemDataId&quot;: &quot;1606478028761-3GCFK0B6QC7HDNYEEB0B&quot;,
+    &quot;systemDataVariants&quot;: &quot;1600x1067,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;sitting-couch.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.506993006993007,
+      &quot;y&quot;: 0.3832649712879409,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;f3db94&quot;,
+      &quot;topRightAverage&quot;: &quot;cdaf7a&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;957b5a&quot;,
+      &quot;bottomRightAverage&quot;: &quot;614733&quot;,
+      &quot;centerAverage&quot;: &quot;e8ebde&quot;,
+      &quot;suggestedBgColor&quot;: &quot;e2be66&quot;
+    },
+    &quot;urlId&quot;: &quot;hdnlwnpnws2w13ccpo3m9mrdzgl1eu-54k92&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;62abbd40bb345554b61931be&quot;,
+      &quot;displayName&quot;: &quot;Kookii xD xD&quot;,
+      &quot;firstName&quot;: &quot;Kookii&quot;,
+      &quot;lastName&quot;: &quot;xD xD&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478028761-3GCFK0B6QC7HDNYEEB0B/sitting-couch.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1600x1067&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.39,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--narrow&quot;,
+  &quot;customContentWidth&quot;: 56,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478028761-3GCFK0B6QC7HDNYEEB0B/sitting-couch.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478028761-3GCFK0B6QC7HDNYEEB0B/sitting-couch.jpg" data-image-dimensions="1600x1067" data-image-focal-point="0.506993006993007,0.3832649712879409" alt="sitting-couch.jpg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0.39;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbf085d3f10160d76dc3e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-e7d1856b66343f1751a8"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Recibirás acceso ilimitado a todo nuestro conjunto de programas cuando te suscribas.</h3>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-7bd28209a341ffc356c4"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--left"
+  data-animation-role="button"
+  data-alignment="left"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/programs"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Ver los programas
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="62abbf085d3f10160d76dc40"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbf085d3f10160d76dc40"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-cd45fe7cbccd781a0dd9"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Testimonios de nuestros clientes</h3>
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-ea2b5cd3e5c261f1d52e"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-14536b42df929b1598e2"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Shirley L.</h3>
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2c9692c4d931bd41ae59"><div class="sqs-block-content"><p style="text-align:right;white-space:pre-wrap;" class=""><em>Propietaria de una pequeña empresa</em></p>
+
+
+</div></div></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-11d0cb52b4bfd4919aed"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-fade-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.68000030517578%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478142688-ML1B3YFIPNW5R5XY852E/Stocksy_comp_2880282.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478142688-ML1B3YFIPNW5R5XY852E/Stocksy_comp_2880282.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478142688-ML1B3YFIPNW5R5XY852E/Stocksy_comp_2880282.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62abbf085d3f10160d76dc2a" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c9af8bf012784c3403c6"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">"Fue difícil para mí decidir cómo empezar mi propio negocio, pero Grow Well Coaching me simplificó mucho el proceso con una guía paso a paso".</p>
+
+
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-cbcc079a0c8b818df207"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f834f636959bced3f3b2"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-34b7b15142416cb8c512"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b2ef3438d0136bd527b6"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Molly S.</h3>
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-83ad3241125c8e03f8d2"><div class="sqs-block-content"><p style="text-align:right;white-space:pre-wrap;" class=""><em>Ejecutiva</em></p>
+
+
+</div></div></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-b4a50cd8da18490a6de4"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-fade-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.68000030517578%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478135077-L9DL8BLB59O3NJ1NDZO5/Stocksy_comp_2814071.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478135077-L9DL8BLB59O3NJ1NDZO5/Stocksy_comp_2814071.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478135077-L9DL8BLB59O3NJ1NDZO5/Stocksy_comp_2814071.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62abbf085d3f10160d76dc2d" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-53909865a24231f65f12"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">"Como mamá primeriza, tuve dificultades para reincorporarme a mi trabajo de tiempo completo después de la baja por maternidad. Ser miembro de Grow Well Coaching me proporcionó las herramientas para afrontar múltiples tareas a la vez y manejar mejor mi tiempo para poder estar presente en casa".</p>
+
+
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-35dd72a34ac7df69d664"><div class="sqs-block-content"><hr /></div></div></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-e2e21b5791951599b6a8"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="30.434782608695652" data-block-type="21" id="block-9f2d093e2200549b7e43"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4e8c7e0bc8b4f957a614"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Maddie</h3>
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-baef0b44dea89a7ff26a"><div class="sqs-block-content"><p style="text-align:right;white-space:pre-wrap;" class=""><em>Contable</em></p>
+
+
+</div></div></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-74486eefa1ece49ccf04"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-fade-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:64.4000015258789%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478141702-L8N9BGE55AVC5G05SSOL/Stocksy_comp_2452549.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478141702-L8N9BGE55AVC5G05SSOL/Stocksy_comp_2452549.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478141702-L8N9BGE55AVC5G05SSOL/Stocksy_comp_2452549.jpg" data-image-dimensions="2500x1610" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62abbf085d3f10160d76dc30" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f7585225031ba5cc414b"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">"Siempre me ponía nerviosa cuando tenía que realizar una presentación a compañeros y clientes. Gracias a los cursos en línea de Grow Well Coaching, aprendí cómo canalizar mi confianza y mejorar mis habilidades de presentación".</p>
+
+
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-1729481e2f7cee906903"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="30.278884462151396" data-block-type="21" id="block-ee935e42fa869c35b978"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8c51af6c50d720340197"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Sigue inspirándote con noticias, historias y consejos útiles</h4>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-ccb133fbf2ae86622d87"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--left"
+  data-animation-role="button"
+  data-alignment="left"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/press"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Noticias e historias de éxito
+  </a>
+</div>
+</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62abbf085d3f10160d76dc42"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62abbf085d3f10160d76dc33&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1582140101733,
+    &quot;updatedOn&quot;: 1608484509790,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1582140101733,
+    &quot;authorId&quot;: &quot;62abbd40bb345554b61931be&quot;,
+    &quot;systemDataId&quot;: &quot;1606478136021-YP970LQ1NVVVW9LIMBDE&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x3750,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;Stocksy_comp_2379594.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.6350638696824095,
+      &quot;y&quot;: 0.545042581451676,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;d3c5b8&quot;,
+      &quot;topRightAverage&quot;: &quot;daccc1&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;bb9e85&quot;,
+      &quot;bottomRightAverage&quot;: &quot;cbb8a8&quot;,
+      &quot;centerAverage&quot;: &quot;dacec6&quot;,
+      &quot;suggestedBgColor&quot;: &quot;d8cec5&quot;
+    },
+    &quot;urlId&quot;: &quot;1vdi5hcix2lj7jopku2vwtvp9lv82o-hcmw7&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;62abbd40bb345554b61931be&quot;,
+      &quot;displayName&quot;: &quot;Kookii xD xD&quot;,
+      &quot;firstName&quot;: &quot;Kookii&quot;,
+      &quot;lastName&quot;: &quot;xD xD&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478136021-YP970LQ1NVVVW9LIMBDE/Stocksy_comp_2379594.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2500x3750&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 75,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;customContentWidth&quot;: 60,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478136021-YP970LQ1NVVVW9LIMBDE/Stocksy_comp_2379594.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478136021-YP970LQ1NVVVW9LIMBDE/Stocksy_comp_2379594.jpg" data-image-dimensions="2500x3750" data-image-focal-point="0.6350638696824095,0.545042581451676" alt="Stocksy_comp_2379594.jpg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbf085d3f10160d76dc42"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-107c870ba8a69b43116c"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Pongamos en marcha tu negocio</h1><h4 style="text-align:center;white-space:pre-wrap;">Te acompañaremos a cada paso del camino.</h4>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-d0273bcb67cc2da288f3"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="large"
+  data-button-type="secondary"
+>
+  <a
+    href="/programs"
+    class="sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element"
+    
+  >
+    Únete ahora
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/beginners-guide</link>
+      <title>Guía para principiantes</title>
+      <pubDate>Thu, 16 Jun 2022 23:31:19 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="62abbd477b25b3045e5030ff" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62abbd477b25b3045e503102"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62abbd477b25b3045e5030fe&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1595960418262,
+    &quot;updatedOn&quot;: 1612276138077,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1595960418262,
+    &quot;authorId&quot;: &quot;62abbd40bb345554b61931be&quot;,
+    &quot;systemDataId&quot;: &quot;1606478029555-8KCXK08OQZKEK49I5V0O&quot;,
+    &quot;systemDataVariants&quot;: &quot;1800x1200,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;coaching1.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;f2d893&quot;,
+      &quot;topRightAverage&quot;: &quot;ba9f76&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;c6cec8&quot;,
+      &quot;bottomRightAverage&quot;: &quot;737675&quot;,
+      &quot;centerAverage&quot;: &quot;9b7457&quot;,
+      &quot;suggestedBgColor&quot;: &quot;efc781&quot;
+    },
+    &quot;urlId&quot;: &quot;z6e2tw0483ficezifsmvivawi9t41r-3ra9m&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;62abbd40bb345554b61931be&quot;,
+      &quot;displayName&quot;: &quot;Kookii xD xD&quot;,
+      &quot;firstName&quot;: &quot;Kookii&quot;,
+      &quot;lastName&quot;: &quot;xD xD&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1800x1200&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.2,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 85,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg" data-image-dimensions="1800x1200" data-image-focal-point="0.5,0.5" alt="coaching1.jpg" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478029555-8KCXK08OQZKEK49I5V0O/coaching1.jpg?format=original 2500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0.2;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbd477b25b3045e503102"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-caaaf12fd6ab2bf66307"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Guía para principiantes</h1><p class="sqsrte-large" style="white-space:pre-wrap;">Esta guía para principiantes te brindará consejos expertos sobre cómo empezar,<br>una lista de control para tu primer año en el negocio y útiles enlaces de seguimiento.</p>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-0214ca61214bdd7203cb"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--left"
+  data-animation-role="button"
+  data-alignment="left"
+  data-button-size="large"
+  data-button-type="secondary"
+>
+  <a
+    href=""
+    class="sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element"
+    
+  >
+    Descarga el PDF
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>beginners-guide</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/welcome</link>
+      <title>Bienvenido</title>
+      <pubDate>Thu, 16 Jun 2022 23:31:19 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="62abbd477b25b3045e50312c" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62abbd477b25b3045e50312f"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62abbd477b25b3045e503121&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1582305130533,
+    &quot;updatedOn&quot;: 1612276138271,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1582305130533,
+    &quot;authorId&quot;: &quot;62abbd40bb345554b61931be&quot;,
+    &quot;systemDataId&quot;: &quot;1606478122316-IB3GLCVUBGZI0UY4N9JB&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;Stocksy_comp_1937569.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;d5bd9e&quot;,
+      &quot;topRightAverage&quot;: &quot;7c7c67&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;161b0a&quot;,
+      &quot;bottomRightAverage&quot;: &quot;51493b&quot;,
+      &quot;centerAverage&quot;: &quot;9e6454&quot;,
+      &quot;suggestedBgColor&quot;: &quot;cdb694&quot;
+    },
+    &quot;urlId&quot;: &quot;2t3sekeil6w7xyli1z9pcc62kzi6xc-b5er4&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;62abbd40bb345554b61931be&quot;,
+      &quot;displayName&quot;: &quot;Kookii xD xD&quot;,
+      &quot;firstName&quot;: &quot;Kookii&quot;,
+      &quot;lastName&quot;: &quot;xD xD&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/62abbd4188faad2862d6431c&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;2500x1667&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 70,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 80,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 70vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Stocksy_comp_1937569.jpg" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478122316-IB3GLCVUBGZI0UY4N9JB/Stocksy_comp_1937569.jpg?format=2500w 2500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+           padding-top: calc(70vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 80%;" 
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbd477b25b3045e50312f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-be1377c8d6050cc8f9d9"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Tu negocio <span style="text-decoration:underline">empieza aqu&iacute;</span></h1>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="62abbd477b25b3045e503131"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbd477b25b3045e503131"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-485abc94ed763e780cdc"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Te damos la bienvenida a tu Portal de membres&iacute;as</h3><p style="text-align:center;white-space:pre-wrap;" class="">Selecciona una programa para empezar.</p>
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-64e864d8002faf7fc556"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-43d8ce846a8616fb427e"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-fade-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/training"
+              
+          >
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.68000030517578%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478121149-Q5IB0UDKMJ41KUED1IO3/Stocksy_comp_1959238.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478121149-Q5IB0UDKMJ41KUED1IO3/Stocksy_comp_1959238.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478121149-Q5IB0UDKMJ41KUED1IO3/Stocksy_comp_1959238.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62abbd477b25b3045e503124" data-type="image" />
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-04e818d6640f6722f3e6"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;"><a href="/training">Cursos de capacitaci&oacute;n</a></h3><p style="text-align:center;white-space:pre-wrap;" class="">Cursos semanales, sesiones de trabajo,<br />evaluaci&oacute;n de fin de curso.</p>
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-6ecdfe1675bb7400ded3"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-562389d384a39a00fc28"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-13fd27de982f3d1ed202"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-fade-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/classes"
+              
+          >
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.68000030517578%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478120261-23WOPB75FGBOEX6BWZ0H/Stocksy_comp_1937562.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478120261-23WOPB75FGBOEX6BWZ0H/Stocksy_comp_1937562.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478120261-23WOPB75FGBOEX6BWZ0H/Stocksy_comp_1937562.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62abbd477b25b3045e503127" data-type="image" />
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9c660064c883348c3026"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;"><a href="/classes">Clases en l&iacute;nea</a></h3><p style="text-align:center;white-space:pre-wrap;" class="">Video de alta calidad, enlaces a recursos &uacute;tiles,<br />consejos y asesoramiento eficientes.</p>
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-141fa420ff22f26919f5"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-fade-in
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/events"
+              
+          >
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.68000030517578%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478119156-4GIWYNG3GWWQT6VE7535/Stocksy_comp_1959231.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478119156-4GIWYNG3GWWQT6VE7535/Stocksy_comp_1959231.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478119156-4GIWYNG3GWWQT6VE7535/Stocksy_comp_1959231.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62abbd477b25b3045e50312a" data-type="image" />
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ce692ef0f02226314fba"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;"><a href="/events">Eventos especiales</a></h3><p style="text-align:center;white-space:pre-wrap;" class="">Admisi&oacute;n gratuita, sesiones de preguntas y respuestas en vivo,<br />acceso temprano y actualizaciones.</p>
+
+
+</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-797dd3077f61e178d335"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-a2830e881b09f7059abc"><div class="sqs-block-content"><hr /></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="62abbd477b25b3045e503133"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 30,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 60,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 30vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(30vmax / 10); padding-bottom: calc(30vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 60%;" 
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-type="page-section" data-updated-on="1655433440056" id="page-section-62abbd477b25b3045e503133"></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>welcome</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/classes</link>
+      <title>Clases</title>
+      <pubDate>Thu, 16 Jun 2022 23:31:19 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="62abbd477b25b3045e503148" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="62abbd477b25b3045e50314b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62abbd477b25b3045e50314b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-10215096779269376fd5"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Cursos de capacitaci&oacute;n</h2>
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-a6c2d3cb512ecd7537d6"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--left"
+  data-animation-role="button"
+  data-alignment="left"
+  data-button-size="small"
+  data-button-type="tertiary"
+>
+  <a
+    href="/welcome"
+    class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element"
+    
+  >
+    Volver al Portal para miembros
+  </a>
+</div>
+</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="9.528487229862476" data-block-type="21" id="block-fb5952d5a26a9d9ca537"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-b05601731ca1ac84ac26"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/ideation"
+                
+          
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478118190-BWER0FK2Z3KSZQGCJDHM/Stocksy_comp_1959252.jpg" alt="Conceptualizaci&oacute;n - &iquest;Tienes ideas, pero no sabes c&oacute;mo ejecutarlas? En esta clase, te ense&ntilde;amos a ensamblar tus pensamientos para definir qu&eacute; es una buena idea de negocio." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478118190-BWER0FK2Z3KSZQGCJDHM/Stocksy_comp_1959252.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478118190-BWER0FK2Z3KSZQGCJDHM/Stocksy_comp_1959252.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h3 style="white-space:pre-wrap;"><a href="/ideation">Conceptualizaci&oacute;n</a></h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="sqsrte-small" style="white-space:pre-wrap;">&iquest;Tienes ideas, pero no sabes c&oacute;mo ejecutarlas? En esta clase, te ense&ntilde;amos a ensamblar tus pensamientos para definir qu&eacute; es una buena idea de negocio.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-e8244763e02b12c38069"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/class2"
+                
+          
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478116196-SGM9JZWE58TQA8GKZGU1/Stocksy_comp_1937562.jpg" alt="Aspectos b&aacute;sicos de la planificaci&oacute;n empresarial - Dar el siguiente paso en la creaci&oacute;n de un negocio: tu modelo de negocio. C&oacute;mo nace la idea de tu negocio y c&oacute;mo defines las metas y la planificaci&oacute;n estrat&eacute;gica para el pr&oacute;ximo a&ntilde;o y los pr&oacute;ximos cinco a&ntilde;os a partir de hoy." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478116196-SGM9JZWE58TQA8GKZGU1/Stocksy_comp_1937562.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478116196-SGM9JZWE58TQA8GKZGU1/Stocksy_comp_1937562.jpg" data-image-dimensions="1631x1088" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h3 style="white-space:pre-wrap;"><a href="/class2">Aspectos b&aacute;sicos de la planificaci&oacute;n empresarial</a></h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="sqsrte-small" style="white-space:pre-wrap;">Dar el siguiente paso en la creaci&oacute;n de un negocio: tu modelo de negocio. C&oacute;mo nace la idea de tu negocio y c&oacute;mo defines las metas y la planificaci&oacute;n estrat&eacute;gica para el pr&oacute;ximo a&ntilde;o y los pr&oacute;ximos cinco a&ntilde;os a partir de hoy.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="2.161100196463654" data-block-type="21" id="block-e5104ba97afd284027e2"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-62a4aa61c6cb5e592a75"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/class3"
+                
+          
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478023049-6RDGF5L3C4E5WKGYYQV9/lounge.jpg" alt="Inversi&oacute;n en conceptos - &iquest;Est&aacute;s decidiendo si invertir en tu propio negocio? A lo largo de esta clase, definiremos los principales planes financieros y monetarios que te permitir&aacute;n decidir cu&aacute;l es el mejor m&eacute;todo para tu negocio." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478023049-6RDGF5L3C4E5WKGYYQV9/lounge.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478023049-6RDGF5L3C4E5WKGYYQV9/lounge.jpg" data-image-dimensions="1354x902" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h3 style="white-space:pre-wrap;"><a href="/class3">Inversi&oacute;n en conceptos</a></h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="sqsrte-small" style="white-space:pre-wrap;">&iquest;Est&aacute;s decidiendo si invertir en tu propio negocio? A lo largo de esta clase, definiremos los principales planes financieros y monetarios que te permitir&aacute;n decidir cu&aacute;l es el mejor m&eacute;todo para tu negocio.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-cf9b72950b33fd092575"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/class4"
+                
+          
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478108490-343W5P9XINLVRY4VQRR1/Stocksy_comp_2452549.jpg" alt="Presentaciones a inversores - Habilidades de presentaci&oacute;n, propuestas comerciales, c&oacute;mo venderte y c&oacute;mo vender tu marca. Tina y Rose te gu&iacute;an en un proceso paso a paso para superar tus temores y te orientan para que tengas &eacute;xito." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478108490-343W5P9XINLVRY4VQRR1/Stocksy_comp_2452549.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478108490-343W5P9XINLVRY4VQRR1/Stocksy_comp_2452549.jpg" data-image-dimensions="2070x1380" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h3 style="white-space:pre-wrap;"><a href="/class4">Presentaciones a inversores</a></h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="sqsrte-small" style="white-space:pre-wrap;">Habilidades de presentaci&oacute;n, propuestas comerciales, c&oacute;mo venderte y c&oacute;mo vender tu marca. Tina y Rose te gu&iacute;an en un proceso paso a paso para superar tus temores y te orientan para que tengas &eacute;xito.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="2.161100196463654" data-block-type="21" id="block-ca7ffb7192013fa47701"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-34b91515238a0a6fae45"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/class5"
+                
+          
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478107434-0Z1ONPFBKJY9E9KUPQBQ/Stocksy_comp_1921791.jpg" alt="C&oacute;mo iniciar tu negocio - Una vez que tienes el dinero, &iquest;qu&eacute; sigue? Definimos caminos claros para que inicies tu nueva aventura comercial." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478107434-0Z1ONPFBKJY9E9KUPQBQ/Stocksy_comp_1921791.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478107434-0Z1ONPFBKJY9E9KUPQBQ/Stocksy_comp_1921791.jpg" data-image-dimensions="1909x1272" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h3 style="white-space:pre-wrap;"><a href="/class5">C&oacute;mo iniciar tu negocio</a></h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="sqsrte-small" style="white-space:pre-wrap;">Una vez que tienes el dinero, &iquest;qu&eacute; sigue? Definimos caminos claros para que inicies tu nueva aventura comercial.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-b7a468977d56e14c139b"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/class6"
+                
+          
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478021165-G8NWZH8JH3IWQ6P830QW/smile.jpg" alt="Aspectos b&aacute;sicos del crecimiento del negocio - &iquest;Necesitas expandirte? &iquest;Contratar empleados? &iquest;Abrir otra sucursal? Definimos todo lo que debes analizar para hacer crecer tu negocio." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478021165-G8NWZH8JH3IWQ6P830QW/smile.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5fc0e86600d84279c7e1b484/1606478021165-G8NWZH8JH3IWQ6P830QW/smile.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h3 style="white-space:pre-wrap;"><a href="/class6">Aspectos b&aacute;sicos del crecimiento del negocio</a></h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="sqsrte-small" style="white-space:pre-wrap;">&iquest;Necesitas expandirte? &iquest;Contratar empleados? &iquest;Abrir otra sucursal? Definimos todo lo que debes analizar para hacer crecer tu negocio.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>classes</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
